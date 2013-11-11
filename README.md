@@ -59,6 +59,13 @@ the test coverage are always welcome ;-)
 
 [![Build Status](https://travis-ci.org/stsquad/emacs_chrome.png?branch=master)](https://travis-ci.org/stsquad/emacs_chrome)
 
+Submitting to Store
+===================
+
+* Test
+* Tag vX.Y
+* git archive --format zip --output emacs_chrome_X.Y.zip vX.Y
+* Upload that
 
 History
 =======
@@ -105,6 +112,7 @@ Mike Shulman
 Matt Walker
 Aaron Schrab
 Adam Spiers
+Dato Simó
 
 Other Code
 ==========
